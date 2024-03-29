@@ -1,4 +1,13 @@
 # IFTTT Dash Button
+
+## Initial Project 
+The source project can be found here:
+https://github.com/Luigi-Pizzolito/IFTTT-Dash-Button
+
+## Changes
+20240329 Port to Json7 
+
+## Description from the original project
 Push a button, do a GET Request. Save battery to last ages.
 More documentation on [Instructables](https://www.instructables.com/id/Tiny-ESP8266-Dash-Button-Re-Configurable/).
 
